@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(fondo.gif);
+  background-Size: cover;
+  background-Position :center;
+  background-Attachment: fixed;
+  min-Height: 100vh;
+  padding: 20px;
+  
+
 }
 
 code {
